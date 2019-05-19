@@ -1,0 +1,3 @@
+[submodule "aur-mozamimy/PKGBUILDs/circleci-cli-bin"]
+	path = aur-mozamimy/PKGBUILDs/circleci-cli-bin
+	url = https://aur.archlinux.org/circleci-cli-bin.git

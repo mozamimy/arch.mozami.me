@@ -1,0 +1,13 @@
+---
+name: 'aur-mozamimy'
+package_key: '888BC9267437D92CC0B52BD675F773945E0FD8A0'
+repo_key: '888BC9267437D92CC0B52BD675F773945E0FD8A0'
+srcdest: 'sources'
+logdest: 'logs'
+pkgbuild: 'PKGBUILDs'
+builds:
+  x86_64:
+    chroot: '/home/mozamimy/tmp/archroot/x86_64'
+s3:
+  bucket: 'arch.mozami.me'
+  region: 'ap-northeast-1'
